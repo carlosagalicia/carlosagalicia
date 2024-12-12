@@ -94,11 +94,11 @@
   <td width="50%">
     <h3 align="center">Appix Risk Manager</h3>
     <div align="center">
-      <a href="https://github.com/carlosagalicia/AHund-" target="_blank">
+      <a href="https://github.com/carlosagalicia/AHund" target="_blank">
         <img src="https://github.com/user-attachments/assets/b01f54e0-332e-4a31-8d74-138fe6f197a7" alt="Appix Risk Manager Image" width="400">
       </a>
       <p>
-        <a href="https://github.com/carlosagalicia/AHund-" target="_blank">
+        <a href="https://github.com/carlosagalicia/AHund" target="_blank">
           <img src="https://img.shields.io/badge/CODE-2E86AB?style=for-the-badge&logo=github&logoColor=black" alt="Code Badge">
         </a>
       </p>
