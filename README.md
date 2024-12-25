@@ -147,6 +147,44 @@
     </div>
   </td>
 </tr>
+
+<tr>
+  <!-- Proyecto 5 -->
+  <td width="50%">
+    <h3 align="center">Regex to DFA converter</h3>
+    <div align="center">
+      <a href="https://github.com/carlosagalicia/regex_to_DFA" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a6d25412-e9c0-4ee6-83df-c25ff8d2eb38" alt="Regex to DFA converter" width="400">
+      </a>
+      <p>
+        <a href="https://github.com/carlosagalicia/regex_to_DFA" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-92BFB1?style=for-the-badge&logo=github&logoColor=black" alt="Code Badge">
+        </a>
+      </p>
+      <p align="justify">
+        This project implements a program to convert regular expressions into their corresponding NFA (Non-deterministic Finite Automaton) and subsequently into a DFA (Deterministic Finite Automaton). This program includes functionality for parsing regular expressions with operators like concatenation (.), union (|), Kleene star (*), and Kleene plus (+).
+      </p>
+    </div>
+  </td>
+
+  <!-- Proyecto 6 -->
+  <td width="50%">
+    <h3 align="center">Archery Target Recognition</h3>
+    <div align="center">
+      <a href="https://github.com/carlosagalicia/Archery-Target-Recognition" target="_blank">
+        <img src="https://github.com/user-attachments/assets/44fdcf00-ac36-4c7e-b8e0-5784da9fb0c9" alt="Archery Target Recognition" width="400">
+      </a>
+      <p>
+        <a href="https://github.com/carlosagalicia/Archery-Target-Recognition" target="_blank">
+          <img src="https://img.shields.io/badge/CODE-A61C3C?style=for-the-badge&logo=github&logoColor=black" alt="Code Badge">
+        </a>
+      </p>
+      <p align="justify">
+        This project is designed to recognize an archery target and trigger a "Fire" command once the target is within the designated target zone. It uses computer vision techniques to detect specific colors in a live camera feed, processes the image to highlight the target, and checks if the target is within the predefined target zone.
+      </p>
+    </div>
+  </td>
+</tr>
 </table>
 
 ### GitHub Analytics
