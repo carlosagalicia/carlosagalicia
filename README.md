@@ -113,18 +113,18 @@
 <tr>
   <!-- Proyecto 3 -->
   <td width="50%">
-    <h3 align="center">Impossible Tic Tac Toe Game</h3>
+    <h3 align="center">IBM course: Image Captioning App</h3>
     <div align="center">
-      <a href="https://github.com/carlosagalicia/Tic-Tac-Toe-Game" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c046e5ee-043e-4eec-bfe5-2199ff9ae40b" alt="Tic Tac Toe Game Image" width="400">
+      <a href="https://github.com/carlosagalicia/IBM-AI-Developer-Professional-course" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ce97a0f7-351c-4099-b287-497a052a2169" alt="Image Captioning App" width="400">
       </a>
       <p>
-        <a href="https://github.com/carlosagalicia/Tic-Tac-Toe-Game" target="_blank">
+        <a href="https://github.com/carlosagalicia/IBM-AI-Developer-Professional-course" target="_blank">
           <img src="https://img.shields.io/badge/CODE-564138?style=for-the-badge&logo=github&logoColor=black" alt="Code Badge">
         </a>
       </p>
       <p align="justify">
-        Tic-Tac-Toe, also known as "Three in a Row," is a classic game where two players take turns marking spaces in a grid with "X" or "O." The objective is to align three symbols horizontally, vertically, or diagonally. In this enhanced version, you will face off against an intelligent algorithm that makes strategic moves, creating a challenging experience.
+        This repository contains the labs and projects completed as part of the IBM AI Developer Professional course. The course covers a variety of topics, including web scraping, REST API development, data analysis, and machine learning, providing hands-on experience with key tools and technologies in AI development.
       </p>
     </div>
   </td>
