@@ -157,18 +157,18 @@
 <tr>
   <!-- Proyecto 5 -->
   <td width="50%">
-    <h3 align="center">Regex to DFA converter</h3>
+    <h3 align="center">MNIST Digit Classification</h3>
     <div align="center">
-      <a href="https://github.com/carlosagalicia/regex_to_DFA" target="_blank">
-        <img src="https://github.com/user-attachments/assets/a6d25412-e9c0-4ee6-83df-c25ff8d2eb38" alt="Regex to DFA converter" width="400">
+      <a href="https://github.com/carlosagalicia/python-deep-learning-projects" target="_blank">
+        <img src="https://github.com/user-attachments/assets/49c03077-33f5-4452-bdac-4d0d814a64c3" alt="Regex to DFA converter" width="400">
       </a>
       <p>
-        <a href="https://github.com/carlosagalicia/regex_to_DFA" target="_blank">
+        <a href="https://github.com/carlosagalicia/python-deep-learning-projects" target="_blank">
           <img src="https://img.shields.io/badge/CODE-92BFB1?style=for-the-badge&logo=github&logoColor=black" alt="Code Badge">
         </a>
       </p>
       <p align="justify">
-        This project implements a program to convert regular expressions into their corresponding NFA (Non-deterministic Finite Automaton) and subsequently into a DFA (Deterministic Finite Automaton). This program includes functionality for parsing regular expressions with operators like concatenation (.), union (|), Kleene star (*), and Kleene plus (+).
+        This repository contains projects that serve as practical applications of deep learning concepts from the book Deep Learning with Python by François Chollet, focusing on a different aspect of deep learning, including classification, regression, and working with Keras, a deep learning framework.
       </p>
     </div>
   </td>
